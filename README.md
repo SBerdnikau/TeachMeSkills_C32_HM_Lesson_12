@@ -1,4 +1,4 @@
-
+# Here, the following tasks are implemented:
 
 *Task 1*
 Write a program that the passed string is a hex code for a color description.
